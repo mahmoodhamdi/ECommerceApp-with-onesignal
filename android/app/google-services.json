@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127865341173",
+    "project_id": "my-5056-signal",
+    "storage_bucket": "my-5056-signal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127865341173:android:ba254cc27c62f9919c71bc",
+        "android_client_info": {
+          "package_name": "com.example.one_signal_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAFZMPWIgMqZhs_-P1O0KijRzrkVH-0Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
